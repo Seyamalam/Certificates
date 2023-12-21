@@ -29,9 +29,10 @@ Welcome to my GitHub repository! Here, you can find certificates and achievement
 - [Python 101 for Data Science](IBM%20Python%20101%20for%20Data%20Science.pdf)
 
 ## Kaggle Certificates
-
-- ![Data Visualization](Kaggle%20Data%20Visualization.png)
-- ![Intro to Machine Learning](Kaggle%20Intro%20to%20Machine%20Learning.png)
+- **Data Visualization**
+ ![Data Visualization](Kaggle%20Data%20Visualization.png)
+- **Intro to Machine Learning**
+ ![Intro to Machine Learning](Kaggle%20Intro%20to%20Machine%20Learning.png)
 
 ## Simplilearn Certificates
 

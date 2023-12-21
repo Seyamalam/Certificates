@@ -21,7 +21,7 @@ Here are the certificates I've earned in various domains:
 
 ## Hackerrank Certificates
 - **Python Basic Certificate**
-![Hackerrank Python Basic Certificate](Hackerrank%20Python%20Basic%20Certificate.png)
+![Hackerrank Python Basic Certificate](Hackerrank%20Python%20basic%20certificate.png)
 - **CSS Certificate**
 ![Hackerrank CSS Certificate](Hackerrank%20CSS%20Certificate.png)
 - **Java Basic Certificate**

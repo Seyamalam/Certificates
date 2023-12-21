@@ -34,7 +34,7 @@ Here are the certificates I've earned in various domains:
 - **Problem Solving Intermediate Certificate**
 ![Hackerrank Problem Solving Intermediate Certificate](Hackerrank%20Problem%20Solving%20Intermediate%20Certificate.png)
 - **Problem Solving Basic Certificate**
-![Hackerrank Problem Solving Basic Certificate](Hackerrank%20Problem%20Solving%20Basic%20Certificate.png)
+![Hackerrank Problem solving basic certificate](Hackerrank%20Problem%20Solving%20Basic%20Certificate.png)
 - **SQL Basic Certificate**
 ![Hackerrank SQL Basic Certificate](Hackerrank%20Sql%20Basic%20Certificate.png)
 

@@ -1,6 +1,6 @@
 # Certificate Showcase
 
-Welcome to my GitHub repository! Here, you can find certificates and achievements related to various skills and technologies. Feel free to explore and learn more about my educational journey.
+Welcome to my GitHub repository! Here, you can find certificates and achievements related to various skills and technologies. Feel free to explore and learn more about my educational journey. Thank you!
 
 # My Certificates
 

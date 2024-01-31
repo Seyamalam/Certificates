@@ -19,28 +19,31 @@ This repository contains a collection of certificates earned by me in various do
 5. **Credly IBM Data Science Methodologies**
    ![Certificate](Credly%20IBM%20Data%20Science%20Methodologies.png)
 
-6. **Future Learn Digital Skills Artificial Intelligence**
+6. **Credly IBM Data Science Methodologies**
+   ![Certificate](Credly%20IBM%20Deep%20Learning.png)
+
+7. **Future Learn Digital Skills Artificial Intelligence**
    ![Certificate](Future%20Learn%20Digital%20Skills%20Artificial%20Inteligence.png)
 
-7. **Future Learn Digital Skills Web Analytics**
+8. **Future Learn Digital Skills Web Analytics**
    ![Certificate](Future%20Learn%20Digital%20Skills%20Web%20Analytics.png)
 
-8. **Google Ads Measurement**
+9. **Google Ads Measurement**
    ![Certificate](Google%20Ads%20Measurement.png)
 
-9. **Google Analytics**
+10. **Google Analytics**
    ![Certificate](Google%20Analytics.png)
 
-10. **Google Digital Marketing**
+11. **Google Digital Marketing**
     ![Certificate](Google%20Digital%20Marketing.png)
 
-11. **Great Learning CSS**
+12. **Great Learning CSS**
     ![Certificate](Great%20Learning%20CSS.png)
 
-12. **Great Learning MySQL**
+13. **Great Learning MySQL**
     ![Certificate](Great%20Learning%20MySQL.png)
 
-13. **Hackerrank CSS Certificate**
+14. **Hackerrank CSS Certificate**
     ![Certificate](Hackerrank%20CSS%20Certificate.png)
 
 14. **Hackerrank Java Basic Certificate**
@@ -115,17 +118,26 @@ This repository contains a collection of certificates earned by me in various do
 37. **Kaggle Intro to Machine Learning**
     ![Certificate](Kaggle%20Intro%20to%20Machine%20Learning.png)
 
-38. **MATLAB Deep Learning**
+37. **Kaggle Machine Learning Explainability**
+    ![Certificate](Kaggle%20Machine%20Learning%20Explainability.png)
+
+37. **Kaggle Python**
+    ![Certificate](Kaggle%20Python.png)
+
+38. **Mathworks MATLAB Deep Learning**
     ![Certificate](MATLAB%20Deep%20Learning.png)
 
-39. **MATLAB Image Processing**
+39. **Mathworks MATLAB Image Processing**
     ![Certificate](MATLAB%20Image%20Processing.png)
 
-40. **MATLAB Machine Learning Onramp**
+40. **Mathworks MATLAB Machine Learning Onramp**
     ![Certificate](MATLAB%20Machine%20Learning%20Onramp.png)
 
 41. **Mathworks MATLAB Computer Vision Onramp**
     ![Certificate](Mathworks%20MATLAB%20Computer%20Vision%20Onramp.png)
+
+42. **Saylor Academy CS250 Python for Data Science**
+    ![Certificate](Saylor%20Academy%20CS250%20Python%20For%20Data%20Science.png)
 
 42. **Saylor Academy CS301 Computer Architecture**
     ![Certificate](Saylor%20Academy%20CS301%20Computer%20Architecture.png)
@@ -150,6 +162,9 @@ This repository contains a collection of certificates earned by me in various do
 
 49. **freeCodeCamp Responsive Web Design**
     ![Certificate](freeCodeCamp%20Responsive%20Web%20Design.png)
+
+50. **cPanel Professional Certification Exam (CPP)**
+    ![Certificate](cPanel%20Professional%20Certification%20Exam%20(CPP).png)
 
 ## How to View Certificates
 

@@ -373,7 +373,7 @@ This repository contains a collection of certificates earned by me in various do
 ## Mathworks MATLAB
 
 61. ### Computer Vision Onramp 
- ![MATLAB Computer Vision Onramp](Certificates/MATLAB%20Computer%20Vision%20Onramp.png)
+ ![MATLAB Computer Vision Onramp](Certificates/Mathworks%20MATLAB%20Computer%20Vision%20Onramp.png)
  [Verify](Certificates/https://matlabacademy.mathworks.com/verify)
 
 62. ### Deep Learning 

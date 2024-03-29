@@ -1,7 +1,6 @@
-# Certificates Showcase
+# Certifications
 
-This repository contains a collection of certificates earned by me in various domains. Each certificate represents a milestone in the journey of acquiring skills and knowledge. Hope you will appreciate.
-
+This repository contains images of my certifications in various fields. Each certificate is accompanied by a name and a verification link.
 
 ## Cisco
 
@@ -459,9 +458,3 @@ This repository contains a collection of certificates earned by me in various do
 77. ### Add Mangers Fundamentals 
  ![X Add Mangers Fundamentals](X(Twitter)%20Add%20Mangers%20Fundamentals.png)
  [Verify](https://www.twitter.com/verify)
-
-## How to View Certificates
-
-Simply click on the certificate names to view the corresponding images.
-
-Feel free to explore and learn more about the skills and achievements represented by each certificate.

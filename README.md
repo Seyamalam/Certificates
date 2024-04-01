@@ -460,6 +460,14 @@ This repository contains a collection of certificates earned by me in various do
  ![X Add Mangers Fundamentals](Certificates/X%20Twitter%20Add%20Mangers%20Fundamentals.png)
  [Verify](Certificates/https://www.twitter.com/verify)
 
+## InfoSys
+
+77. ### Add Mangers Fundamentals 
+ ![InfoSys Programming Fundamentals using Python - Part 1](Certificates/InfoSys%20Programming%20Fundamentals%20using%20Python%20-%20Part%201.png)
+ [Verify](Certificates/https://www.twitter.com/verify)
+
+
+
 ## How to View Certificates
 
 Simply click on the certificate names to view the corresponding images.

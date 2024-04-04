@@ -462,10 +462,15 @@ This repository contains a collection of certificates earned by me in various do
 
 ## InfoSys
 
-77. ### Add Mangers Fundamentals 
+78. ### InfoSys Programming Fundamentals using Python - Part 1 
  ![InfoSys Programming Fundamentals using Python - Part 1](Certificates/InfoSys%20Programming%20Fundamentals%20using%20Python%20-%20Part%201.png)
  [Verify](Certificates/https://www.twitter.com/verify)
 
+## LinkedIn Learning
+
+79. ### LinkedIn Learning Introduction to Artificial Intelligence 
+ ![LinkedIn Learning Introduction to Artificial Intelligence](Certificates/LinkedIn%20Learning%20Introduction%20to%20Artificial%20Intelligence.png)
+ [Verify](https://www.linkedin.com/learning/certificates/28b2b5d8cf2ae20a526ebafaaa3d55cafd7a9db2e0d3bb14756f58b405ad5186)
 
 
 ## How to View Certificates

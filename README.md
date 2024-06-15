@@ -91,14 +91,3 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 | [X Twitter Add Mangers Fundamentals](./certificates/X_Twitter_Add_Mangers_Fundamentals.png) | X | 
 
 
-## How this section is automated
-
-This section of the README is automatically updated using a GitHub Action. 
-
-1. **The Action:** A GitHub Actions workflow is set up to run on a schedule (e.g., daily) or whenever changes are pushed to the repository.
-2. **Scanning for Certificates:** The workflow uses a script to scan the `certificates/` directory for image files (e.g., PNGs).
-3. **Extracting Information:** The script extracts the certificate name from the filename and formats it for display.
-4. **Updating the README:** The script updates the section between the `<!-- CERTIFICATES START -->` and `<!-- CERTIFICATES END -->` comments in the `README.md` file. 
-5. **Committing Changes:** If any changes were made to the `README.md` file, the workflow commits and pushes the changes to the repository.
-
-This way, you can just add new certificate images to the `certificates/` folder, and the README will be automatically updated! 

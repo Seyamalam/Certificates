@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const certificatesDir = path.join(__dirname, '..', '..', '..', 'certificates');
-const readmePath = path.join(__dirname, '..', '..', 'README.md');
+const certificatesDir = path.join(__dirname, '..', '..', 'certificates');
+const readmePath = path.join(__dirname, '..', '..', '..', 'README.md');
 
 // Read the certificates directory
 const certificates = fs.readdirSync(certificatesDir);

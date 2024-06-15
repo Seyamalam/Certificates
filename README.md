@@ -7,7 +7,7 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 
 | Certificate | Provider | 
 |---|---|
-| [BEC Conflict Related Injury Record Of Achievement](./certificates/BEC%20Conflict%20Related%20Injury%20Record%20Of%20Achievement.png) | WHO | 
+| [BEC Conflict Related Injury Record Of Achievement](certificates/BEC%20Conflict%20Related%20Injury%20Record%20Of%20Achievement.png) | WHO | 
 | [Certificate Of Completion Career Essentials in GitHub Professional Certificate](./certificates/Certificate%20Of%20Completion%20Career%20Essentials%20in%20GitHub%20Professional%20Certificate.png) | LinkedIn Github | 
 | [Cisco Python Essentials 1](./certificates/Cisco%20Python%20Essentials%201.png) | Cisco | 
 | [Cisco Python Essentials 2](./certificates/Cisco%20Python%20Essentials%202.png) | Cisco | 

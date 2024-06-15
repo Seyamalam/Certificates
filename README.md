@@ -2,8 +2,6 @@
 
 I'm constantly learning and expanding my skillset. Here are some of the certifications I've earned along the way:
 
-<!-- CERTIFICATES START -->
-<!-- This section is automatically generated. Do not edit manually. -->
 
 | Certificate | Provider | 
 |---|---|
@@ -92,7 +90,6 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 | [Workshop Speaker Certificate of Appreciation](./certificates/Workshop%20Speaker%20Certificate%20of%20Appreciation.png) | BGC Trust University Bangladesh | 
 | [X Twitter Add Mangers Fundamentals](./certificates/X%20Twitter%20Add%20Mangers%20Fundamentals.png) | X | 
 
-<!-- CERTIFICATES END -->
 
 ## How this section is automated
 

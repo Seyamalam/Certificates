@@ -5,10 +5,20 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 
 | Certificate | Provider | 
 |---|---|
-| [BEC Conflict Related Injury Record Of Achievement](./certificates/BEC_Conflict_Related_Injury_Record_Of_Achievement.png) | WHO | 
-| [Certificate Of Completion Career Essentials in GitHub Professional Certificate](./certificates/Certificate_Of_Completion_Career_Essentials_in_GitHub_Professional_Certificate.png) | LinkedIn Github | 
 | [Cisco Python Essentials 1](./certificates/Cisco_Python_Essentials_1.png) | Cisco | 
 | [Cisco Python Essentials 2](./certificates/Cisco_Python_Essentials_2.png) | Cisco | 
+| [Workshop Speaker Certificate of Appreciation](./certificates/Workshop_Speaker_Certificate_of_Appreciation.png) | BGC Trust University Bangladesh | 
+| [CS50 for Educators.png](./certificates/CS50_for_Educators.png) | BGC Trust University Bangladesh | 
+| [Redis University RU102PY Redis for Python Developers](./certificates/Redis_University_RU102PY_Redis_for_Python_Developers.png) | Redis University | 
+| [Saylor Academy CS105 Introduction to Python](./certificates/Saylor_Academy_CS105_Introduction_to_Python.png) | Saylor Academy | 
+| [Saylor Academy CS250 Python for Data Science](./certificates/Saylor_Academy_CS250_Python_for_Data_Science.png) | Saylor Academy | 
+| [Saylor Academy CS301 Computer Architecture](./certificates/Saylor_Academy_CS301_Computer_Architecture.png) | Saylor Academy | 
+| [Saylor Academy CS402 Computer Communications and Networks](./certificates/Saylor_Academy_CS402_Computer_Communications_and_Networks.png) | Saylor Academy | 
+| [Saylor Academy CS406 Information Security](./certificates/Saylor_Academy_CS406_Information_Security.png) | Saylor Academy | 
+| [BEC Conflict Related Injury Record Of Achievement](./certificates/BEC_Conflict_Related_Injury_Record_Of_Achievement.png) | WHO | 
+| [IEEE Machine Learning Mastery](./certificates/IEEE_Machine_Learning_Mastery.png) | WHO | 
+| [InfoSys Programming Fundamentals using Python - Part 1](./certificates/InfoSys_Programming_Fundamentals_using_Python_-_Part_1.png) | InfoSys | 
+| [Certificate Of Completion Career Essentials in GitHub Professional Certificate](./certificates/Certificate_Of_Completion_Career_Essentials_in_GitHub_Professional_Certificate.png) | LinkedIn Github | 
 | [cPanel Professional Certification Exam CPP](./certificates/cPanel_Professional_Certification_Exam_CPP.png) | cPanel | 
 | [Credly IBM Applied Data Science with Python](./certificates/Credly_IBM_Applied_Data_Science_with_Python.png) | Credly | 
 | [Credly IBM Big Data Foundations - Level 2](./certificates/Credly_IBM_Big_Data_Foundations_-_Level_2.png) | Credly | 
@@ -60,7 +70,6 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 | [IBM Spark Fundamentals I](./certificates/IBM_Spark_Fundamentals_I.png) | IBM | 
 | [IBM Spark Overview for Scala Analytics](./certificates/IBM_Spark_Overview_for_Scala_Analytics.png) | IBM | 
 | [IBM SQL and Relational Databases 101](./certificates/IBM_SQL_and_Relational_Databases_101.png) | IBM | 
-| [InfoSys Programming Fundamentals using Python - Part 1](./certificates/InfoSys_Programming_Fundamentals_using_Python_-_Part_1.png) | InfoSys | 
 | [Kaggle Advanced SQL](./certificates/Kaggle_Advanced_SQL.png) | Kaggle | 
 | [Kaggle Data Visualization](./certificates/Kaggle_Data_Visualization.png) | Kaggle | 
 | [Kaggle Geospatial Analysis](./certificates/Kaggle_Geospatial_Analysis.png) | Kaggle | 
@@ -73,12 +82,6 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 | [MATLAB Deep Learning](./certificates/MATLAB_Deep_Learning.png) | MATLAB | 
 | [MATLAB Image Processing](./certificates/MATLAB_Image_Processing.png) | MATLAB | 
 | [MATLAB Machine Learning Onramp](./certificates/MATLAB_Machine_Learning_Onramp.png) | MATLAB | 
-| [Redis University RU102PY Redis for Python Developers](./certificates/Redis_University_RU102PY_Redis_for_Python_Developers.png) | Redis University | 
-| [Saylor Academy CS105 Introduction to Python](./certificates/Saylor_Academy_CS105_Introduction_to_Python.png) | Saylor Academy | 
-| [Saylor Academy CS250 Python for Data Science](./certificates/Saylor_Academy_CS250_Python_for_Data_Science.png) | Saylor Academy | 
-| [Saylor Academy CS301 Computer Architecture](./certificates/Saylor_Academy_CS301_Computer_Architecture.png) | Saylor Academy | 
-| [Saylor Academy CS402 Computer Communications and Networks](./certificates/Saylor_Academy_CS402_Computer_Communications_and_Networks.png) | Saylor Academy | 
-| [Saylor Academy CS406 Information Security](./certificates/Saylor_Academy_CS406_Information_Security.png) | Saylor Academy | 
 | [Simplilearn Advnace C++](./certificates/Simplilearn_Advnace_C++.png) | Simplilearn | 
 | [Simplilearn CCNA 200-301 Network Fundamentals](./certificates/Simplilearn_CCNA_200-301_Network_Fundamentals.png) | Simplilearn | 
 | [Simplilearn Full-Stack Development 101](./certificates/Simplilearn_Full-Stack_Development_101.png) | Simplilearn | 
@@ -87,7 +90,6 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 | [UN An Introduction to Climate Change and Human Rights](./certificates/UN_An_Introduction_to_Climate_Change_and_Human_Rights.png) | UN | 
 | [UN Gender Equality and Human Right](./certificates/UN_Gender_Equality_and_Human_Right.png) | UN | 
 | [University of Helsinki Elements Of Ai](./certificates/University_of_Helsinki_Elements_Of_Ai.png) | University of Helsinki | 
-| [Workshop Speaker Certificate of Appreciation](./certificates/Workshop_Speaker_Certificate_of_Appreciation.png) | BGC Trust University Bangladesh | 
 | [X Twitter Add Mangers Fundamentals](./certificates/X_Twitter_Add_Mangers_Fundamentals.png) | X | 
 
 

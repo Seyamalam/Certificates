@@ -8,7 +8,7 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 | [Cisco Python Essentials 1](./certificates/Cisco_Python_Essentials_1.png) | Cisco | 
 | [Cisco Python Essentials 2](./certificates/Cisco_Python_Essentials_2.png) | Cisco | 
 | [Workshop Speaker Certificate of Appreciation](./certificates/Workshop_Speaker_Certificate_of_Appreciation.png) | BGC Trust University Bangladesh | 
-| [CS50 for Educators.png](./certificates/CS50_for_Educators.png) | BGC Trust University Bangladesh | 
+| [CS50 for Educators](./certificates/CS50_for_Educators.png) | Harvard University  | 
 | [Redis University RU102PY Redis for Python Developers](./certificates/Redis_University_RU102PY_Redis_for_Python_Developers.png) | Redis University | 
 | [Saylor Academy CS105 Introduction to Python](./certificates/Saylor_Academy_CS105_Introduction_to_Python.png) | Saylor Academy | 
 | [Saylor Academy CS250 Python for Data Science](./certificates/Saylor_Academy_CS250_Python_for_Data_Science.png) | Saylor Academy | 
@@ -16,7 +16,7 @@ I'm constantly learning and expanding my skillset. Here are some of the certific
 | [Saylor Academy CS402 Computer Communications and Networks](./certificates/Saylor_Academy_CS402_Computer_Communications_and_Networks.png) | Saylor Academy | 
 | [Saylor Academy CS406 Information Security](./certificates/Saylor_Academy_CS406_Information_Security.png) | Saylor Academy | 
 | [BEC Conflict Related Injury Record Of Achievement](./certificates/BEC_Conflict_Related_Injury_Record_Of_Achievement.png) | WHO | 
-| [IEEE Machine Learning Mastery](./certificates/IEEE_Machine_Learning_Mastery.png) | WHO | 
+| [IEEE Machine Learning Mastery](./certificates/IEEE_Machine_Learning_Mastery.png) | IEEE Computer Society | 
 | [InfoSys Programming Fundamentals using Python - Part 1](./certificates/InfoSys_Programming_Fundamentals_using_Python_-_Part_1.png) | InfoSys | 
 | [Certificate Of Completion Career Essentials in GitHub Professional Certificate](./certificates/Certificate_Of_Completion_Career_Essentials_in_GitHub_Professional_Certificate.png) | LinkedIn Github | 
 | [cPanel Professional Certification Exam CPP](./certificates/cPanel_Professional_Certification_Exam_CPP.png) | cPanel | 
